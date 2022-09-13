@@ -7,6 +7,23 @@ h1, h2 {
     text-align: center;
 }
 
+nav {
+    text-align: center;
+}
+
+nav li {
+    border: white solid 3px;
+    color: white;
+    font-size: 20px;
+}
+
+nav a {
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px 10px;
+    margin: 20px;
+}
+
 ul {
     list-style-type: none;
 }
